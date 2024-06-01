@@ -7,7 +7,7 @@ import { demoThumbnailUrl, demoVideoUrl, demoVideoTitle, demoChannelUrl, demoCha
 
 const VideoCard = ({video}) => {
   return (
-    
+    <></>
   )
 }
 
